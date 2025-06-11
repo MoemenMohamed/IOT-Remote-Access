@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593263418451",
+    "project_id": "iot-remote-access-828f0",
+    "storage_bucket": "iot-remote-access-828f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593263418451:android:c2dec0d231406068963aa6",
+        "android_client_info": {
+          "package_name": "com.example.esp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhdHTWG4WUshCPMmKpkA5Kc6nMsTGPys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
